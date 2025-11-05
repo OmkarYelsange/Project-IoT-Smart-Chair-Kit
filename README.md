@@ -102,7 +102,7 @@ This project was developed by a team of **4 passionate innovators**:
 
 📧 **Email:** [omkaryelsange1010@gmail.com](mailto:omkaryelsange1010@gmail.com)  
 🔗 **GitHub:** [OmkarYelsange](https://github.com/OmkarYelsange)  
-💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
+💼 **LinkedIn:** [Omkar Yelsange](https://linkedin.com/in/omkar-yelsange)  
 
 ---
 
