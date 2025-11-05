@@ -87,14 +87,14 @@ Real-time monitoring is provided through **Blynk IoT Dashboard**.
 
 ---
 
-## 👨‍👩‍👦 Team Members  
+## Team Members  
 
 This project was developed by a team of **4 passionate innovators**:  
 
-- 👤 **Omkar Yelsange** – IoT Integration & Code Development  
-- 👤 **Member 2 Name** – Hardware & Circuit Design  
-- 👤 **Member 3 Name** – Dashboard & Data Visualization  
-- 👤 **Member 4 Name** – Documentation & Research  
+-  **Omkar Yelsange** – IoT Integration & Documentation  
+-  **Aakash Devkar** – Hardware & Circuit Design  
+-  **Shreya Musale** – Dashboard & Data Visualization  
+-  **Esha Dudam** – Code Development & Research  
 
 ---
 
