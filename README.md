@@ -1,7 +1,7 @@
 <!-- Banner / Hero Section -->
 # 🪑 IoT-Enabled Smart Chair Kit  
 
-![Smart Chair Banner](https://via.placeholder.com/1200x400.png?text=IoT+Enabled+Smart+Chair+Kit)  
+![Smart Chair ](https://via.placeholder.com/1200x400.png?text=IoT+Enabled+Smart+Chair+Kit)  
 
 > **Revolutionizing comfort, health, and productivity through IoT and smart sensing.**  
 > Designed by a team of passionate innovators to create a healthier and smarter sitting experience.  
@@ -36,7 +36,6 @@ This project introduces a **Smart Chair** equipped with IoT technology that:
 
 Real-time monitoring is provided through **Blynk IoT Dashboard**.  
 
-👉 Replace with actual screenshot:  
 ![Blynk Dashboard](https://via.placeholder.com/1000x500.png?text=Blynk+IoT+Dashboard+Preview)  
 
 ---
