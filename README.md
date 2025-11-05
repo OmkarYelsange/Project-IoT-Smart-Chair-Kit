@@ -100,7 +100,7 @@ This project was developed by a team of **4 passionate innovators**:
 
 ## 📬 Contact  
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [omkaryelsange1010@gmail.com](mailto:omkaryelsange1010@gmail.com)  
 🔗 **GitHub:** [OmkarYelsange](https://github.com/OmkarYelsange)  
 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
 
