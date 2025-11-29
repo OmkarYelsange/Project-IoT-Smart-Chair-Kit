@@ -1,7 +1,7 @@
 <!-- Banner / Hero Section -->
 # 🪑 IoT-Enabled Smart Chair Kit  
 
-![Smart Chair ](https://via.placeholder.com/1200x400.png?text=IoT+Enabled+Smart+Chair+Kit)  
+![Smart Chair ](https://via.placeholder.com/1200x400.png?text=IoT+Enabled+Smart+Chair+Kit)
 
 > **Revolutionizing comfort, health, and productivity through IoT and smart sensing.**  
 > Designed by a team of passionate innovators to create a healthier and smarter sitting experience.  
